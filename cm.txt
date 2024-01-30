@@ -1,0 +1,27 @@
+  Id CommandLine
+  -- -----------
+   1 route
+   2 arp -a
+   3 route -n
+   4 route print
+   5 netsh interface show interface
+   6 ipconfig
+   7 ipconfig - display dns
+   8 ipconfig / display dns
+   9 ipconfig | display dns
+  10 ipconfig /display dns
+  11 ipconfig /displaydns
+  12 dnsnasq
+  13 ipconfig /displaydns
+  14 netsatat
+  15 netstat - t
+  16 netstat -a -t
+  17 nslookup google.com
+  18 ipconfig /release
+  19 ipconfig
+  20 ipconfig /release
+  21 ipconfig
+  22 netstat -a -u
+  23 npcap
+  24 sudo install npcap
+  25 npcap
